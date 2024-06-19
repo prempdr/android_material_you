@@ -26,16 +26,15 @@ Implement android's new `Material You` colors for `API 31+` with supports for `A
 2. Copy those files to your projects respective directories, both `light` and `dark` variant
 3. On `your activity.java` file use :
    ```
-   if( android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.S){
-            DynamicColors.applyToActivityIfAvailable(this);
-        }
+   DynamicColors.applyToActivityIfAvailable(this);
    ```
    before `setContentView` line
 
    Here see the usage:
+   
    ![image](ss_3.png)
 
-4. Have a look at the color usages:
+5. Have a look at the color usages:
    - for backgrounds use `?attr/colorSurfaceContainer`
    - for backgrounds text `?attr/colorOnBackground`
    - for cards use `?attr/colorSurface`
@@ -43,9 +42,12 @@ Implement android's new `Material You` colors for `API 31+` with supports for `A
    - fot buttons `?attr/colorPrimary` or `?attr/colorSecondary` or `?attr/colorTertiary`
    
    Here see the usage:
-   ![image](ss_4.png) ![image](ss_5.png) ![image](ss_6.png)
+   ![image](ss_4.png)
+   ![image](ss_5.png)
+   ![image](ss_6.png)
 
-5. More colors:
+7. More colors:
+   
    ![image](ss_7.png)
 
 
