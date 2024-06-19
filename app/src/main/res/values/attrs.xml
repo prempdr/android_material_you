@@ -1,0 +1,51 @@
+<resources>
+    <!-- Custom UI -->
+    <attr name="_black" format="color" />
+    <attr name="_black_tint" format="color" />
+    <attr name="_white" format="color" />
+    <attr name="_white_tint" format="color" />
+    <attr name="_grey" format="color" />
+    <attr name="_red" format="color" />
+    <attr name="_red_tint" format="color" />
+    <attr name="_purple" format="color" />
+    <attr name="_purple_tint" format="color" />
+    <attr name="_blue" format="color" />
+    <attr name="_blue_tint" format="color" />
+    <attr name="_orange" format="color" />
+    <attr name="_orange_tint" format="color" />
+    <attr name="_green" format="color" />
+    <attr name="_green_tint" format="color" />
+    <attr name="_mint" format="color" />
+    <attr name="_mint_tint" format="color" />
+    <attr name="_pink" format="color" />
+    <attr name="_pink_tint" format="color" />
+    <attr name="_yellow" format="color" />
+    <attr name="_yellow_tint" format="color" />
+
+    <!-- Material You -->
+
+    <attr name="colorOrange" format="color" />
+    <attr name="colorOnOrange" format="color" />
+    <attr name="colorOrangeContainer" format="color" />
+    <attr name="colorOnOrangeContainer" format="color" />
+    <attr name="colorGreen" format="color" />
+    <attr name="colorOnGreen" format="color" />
+    <attr name="colorGreenContainer" format="color" />
+    <attr name="colorOnGreenContainer" format="color" />
+    <attr name="colorMint" format="color" />
+    <attr name="colorOnMint" format="color" />
+    <attr name="colorMintContainer" format="color" />
+    <attr name="colorOnMintContainer" format="color" />
+    <attr name="colorPink" format="color" />
+    <attr name="colorOnPink" format="color" />
+    <attr name="colorPinkContainer" format="color" />
+    <attr name="colorOnPinkContainer" format="color" />
+    <attr name="colorYellow" format="color" />
+    <attr name="colorOnYellow" format="color" />
+    <attr name="colorYellowContainer" format="color" />
+    <attr name="colorOnYellowContainer" format="color" />
+    <attr name="colorGrey" format="color" />
+    <attr name="colorOnGrey" format="color" />
+    <attr name="colorGreyContainer" format="color" />
+    <attr name="colorOnGreyContainer" format="color" />
+</resources>
