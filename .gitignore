@@ -49,3 +49,6 @@ google-services.json
 # Android Profiling
 *.hprof
 >>>>>>> e5d8349104892097f5e30cca0dcc3b6fc2360165
+
+#Screenshots
+ss_*.png
