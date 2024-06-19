@@ -36,4 +36,5 @@ Implement android's new `Material You` colors for `API 31+` with supports for `A
    ![image](ss_6.png)
 
 7. More colors:
+   
    ![image](ss_7.png)
